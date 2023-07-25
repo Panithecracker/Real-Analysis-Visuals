@@ -5,4 +5,4 @@ This function's graph is given in the statement of the problem and Spivak challe
 
 Additional note: I have never studied fractals formally, but I think the graph is indeed a fractal, since no matter how much you zoom into it, the figure is self similar, that is, when you zoom in, what you see is just a composition of smaller versions of the figure.
 
-![fractal](https://github.com/Panithecracker/Real-Analysis-Visuals/assets/97905110/9fd6ead8-5f27-4986-8b45-33765e9b3b6a)
+![fractal](https://github.com/Panithecracker/Real-Analysis-Visuals/assets/97905110/c223882d-25f6-4a27-8bd2-17fab1b52a52)
