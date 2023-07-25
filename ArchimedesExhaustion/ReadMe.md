@@ -8,7 +8,7 @@ With those two things proven, it is straight forward to prove the statement : "T
 # The method of exhaustion in action:
 Below is an animation where the method is applied for a circle of radius R = 1 and various n-gons with an increasing number of sides are inscribed. At the end, there is a plot of the sequence of areas obtained for each n-gon (on this case, the areas should approach the constant pi, since Area = Pi*R^2)
 
-![exhaustionmethod](https://github.com/Panithecracker/Real-Analysis-Visuals/assets/97905110/fe331ea9-f439-4dd5-b506-77ec04c924c6)
+![exhaustionmethod (1)](https://github.com/Panithecracker/Real-Analysis-Visuals/assets/97905110/39b20c4b-26cd-4c6e-8f7a-1c99c7db93e4)
 
-![Screenshot 2023-07-25 120509](https://github.com/Panithecracker/Real-Analysis-Visuals/assets/97905110/b9294b57-3a47-4669-b9fc-6199804a3cf6)
+![Screenshot 2023-07-25 120509](https://github.com/Panithecracker/Real-Analysis-Visuals/assets/97905110/aa463c5b-733a-429a-a6af-540c78856a7d)
 
